@@ -280,4 +280,10 @@
   .delivered-meals{
     flex-direction: column;
   }
+
+  .delivered-imgs img{
+    height: 3.2rem;
+    width: 3.2rem;
+    margin-right: -1rem;
+  }
 }
