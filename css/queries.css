@@ -270,9 +270,14 @@
     justify-content: center;
     margin-bottom: 1.2rem;
   }
+
   .btn,
   .btn:link,
   .btn:visited {
     padding: 2.4rem 1.6rem;
+  }
+  
+  .delivered-meals{
+    flex-direction: column;
   }
 }
